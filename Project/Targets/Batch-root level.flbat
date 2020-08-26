@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="4e6d5b76-e477-4958-8c4a-04bc00d512b5">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/CHM" Type="HTML Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/DITA" Type="DITA" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/dotNET" Type="DotNet Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/Eclipse-no exe set" Type="Eclipse Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/EPUB" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/Frame" Type="FrameMaker" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/H5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/PDF" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/UniqueNamedHTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/wh" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/whAIR" Type="WebHelp AIR" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/whMob" Type="WebHelp Mobile" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/whPLUS" Type="WebHelp Plus" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/Word" Type="Word" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/XHTML" Type="XHTML Book" />
+        <Target Icon="System.Drawing.Bitmap" Name="1 level deep/XPS" Type="XPS" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/AlsoAUniqueNamedHTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/CHM" Type="HTML Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/DITA-bad" Type="DITA" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/dotNET" Type="DotNet Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/Eclipse" Type="Eclipse Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/EPUB" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/Frame" Type="FrameMaker" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/H5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/PDF" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/wh" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/whAIR" Type="WebHelp AIR" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/whMob" Type="WebHelp Mobile" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/whPLUS" Type="WebHelp Plus" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/Word" Type="Word" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/XHTML" Type="XHTML Book" />
+        <Target Icon="System.Drawing.Bitmap" Name="2 levels deep/targets/XPS" Type="XPS" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/CHM" Type="HTML Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/DITA" Type="DITA" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/dotNET" Type="DotNet Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/Eclipse" Type="Eclipse Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/EPUB" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/Frame" Type="FrameMaker" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/H5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/PDF" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/Webhelp 3 folders deep" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/wh" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/whAIR" Type="WebHelp AIR" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/whMob" Type="WebHelp Mobile" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/whPLUS" Type="WebHelp Plus" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/Word" Type="Word" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/XHTML" Type="XHTML Book" />
+        <Target Icon="System.Drawing.Bitmap" Name="3 levels deep/a/b/XPS" Type="XPS" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/CHM" Type="HTML Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/DITA" Type="DITA" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/dotNET" Type="DotNet Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/Eclipse" Type="Eclipse Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/EPUB" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/Frame" Type="FrameMaker" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/H5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/PDF" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/PDF 4 folders deep" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/wh" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/whAIR" Type="WebHelp AIR" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/whMob" Type="WebHelp Mobile" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/whPLUS" Type="WebHelp Plus" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/Word" Type="Word" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/XHTML" Type="XHTML Book" />
+        <Target Icon="System.Drawing.Bitmap" Name="4 levels deep/AA/BB/CC/XPS" Type="XPS" />
+        <Target Icon="System.Drawing.Bitmap" Name="All Warnings" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="CHM" Type="HTML Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Dita" Type="DITA" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="dotNET" Type="DotNet Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Eclipse" Type="Eclipse Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="EPUB" Type="EPUB" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Frame" Type="FrameMaker" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 - skinless" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 - topnav" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 - tripane Responsive" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 - tripane Static" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5 Plus" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="PDF" Type="PDF" Build="true" LastBuilt="2016-08-14T17:26:08.1963325-07:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="PDF-bad" Type="PDF" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Target in every level - 4 deep/A/B/C/HTML5" Type="HTML5" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="Target in every level - 4 deep/A/B/HTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Target in every level - 4 deep/A/HTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Target in every level - 4 deep/HTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="WebHelp" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="webhelpAIR" Type="WebHelp AIR" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="whMob" Type="WebHelp Mobile" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="whPLUS" Type="WebHelp Plus" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Word" Type="Word" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="XHTML" Type="XHTML Book" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="XPS" Type="XPS" Build="true" />
+    </Targets>
+</CatapultBatchTarget>
